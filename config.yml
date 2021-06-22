@@ -82,6 +82,8 @@ params:
           url: "https://github.com/damilolarandolph"
         - name: twitter
           url: "https://twitter.com/dami_randolph"
+        - name: linkedin
+          url: "https://linkedin.com/in/damilola-randolph"
         # - name: KoFi
         #   url: "https://ko-fi.com/adityatelange"
         # - name: RsS
