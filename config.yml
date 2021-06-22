@@ -75,7 +75,7 @@ params:
 
     homeInfoParams:
         Title: "Hi there 👋🏾"
-        Content: "Welcome to my blog. My name  is **Damilola Randolph**, a Nigerian software developer currently in Ghana.
+        Content: "Welcome to my blog. Name is **Damilola Randolph**, a Nigerian 🇳🇬 software developer currently in Ghana 🇬🇭.
          When I am not programming, I am playing CODM or thinking of programming. What kind of software development you ask ? usually full stack web development with React, NodeJS yada yada."
     socialIcons:
         - name: github
